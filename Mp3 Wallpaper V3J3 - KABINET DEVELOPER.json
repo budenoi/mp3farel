@@ -17,8 +17,8 @@
 
 
 "MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : true,
-"ADS_ON_START" : false, // CTR NAIK PESAT
+"MODE_NO_ADS" : false,
+"ADS_ON_START" : true, // CTR NAIK PESAT
 "ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
 
 "JSON_POPUP_WAIT" : "Server Json Ready . . .",
@@ -29,10 +29,10 @@
 // FAN        backup unity backup startapp
 // UNITY      backup startapp
 // TAPDAQ     backup unity backup startapp
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : true,
 "PENGATURAN_IKLAN_BANNER" : "ADMOB",
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
-"INTER_COUNT" : 20,
+"INTER_COUNT" : 1,
 
 "ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
 "ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
@@ -78,9 +78,9 @@ you need to try download this too bro
 ]
 ,"Mp3": [
 
-  {    "name_mp3": "Beauty_Floet.mp3",    "link_mp3": "Beauty_Floet.mp3"  },
-  {    "name_mp3": "Nature_Piano.mp3",    "link_mp3": "Nature_Piano.mp3"  },
-  {    "name_mp3": "Water_Sound.mp3",    "link_mp3": "Water_Sound.mp3"  },
+  {    "name_mp3": "01.Farel Prayoga_Aku Ingin Bahagia.mp3",    "link_mp3": "01.Farel Prayoga_Aku Ingin Bahagia.mp3"  },
+  {    "name_mp3": "02.Farel Prayoga_Ojo Di Bandingke.mp3",    "link_mp3": "02.Farel Prayoga_Ojo Di Bandingke.mp3"  },
+  {    "name_mp3": "03.Farel Prayoga ft Yeni Inka _Joko Tingkir Ngombe Dawet.mp3",    "link_mp3": "03.Farel Prayoga ft Yeni Inka _Joko Tingkir Ngombe Dawet.mp3"  },
   {    "name_mp3": "DJBERNYANYI.mp3",    "link_mp3": "https://ia802902.us.archive.org/28/items/gerejatuapanbersfeliixirwancover_202003/Gereja%20Tua%20Panbers%20%28%20Feliix%20Irwan%20Cover%20%29.mp4"  },
   {    "name_mp3": "ingin hilang ingatan",    "link_mp3": "https://ia802907.us.archive.org/11/items/inginhilangingatan/Ingin%20hilang%20ingatan.mp3"  }
 
